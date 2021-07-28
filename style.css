@@ -34,7 +34,12 @@ body {
 .image{
     float:right;
 }
-
+.imagelink{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
 
 
 
