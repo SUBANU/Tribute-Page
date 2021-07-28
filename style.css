@@ -1,0 +1,40 @@
+ *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+} 
+
+body {
+    background-color:lightgray;
+}
+#bruselee-img{
+    text-align: center;
+    max-width: 100%;
+    height:auto;
+    
+
+}
+#bruselee-caption{
+    font-size: 20px;
+    text-align: center;
+    color:rgb(11, 11, 211);
+    margin-top:13px;  
+   
+}
+    #bruselee-description{
+    border:9px solid gray;
+    margin:12px;
+    font-size: 20px;
+    font-family:cursive;
+    color:whitesmoke;
+    background-color: black; 
+}
+
+.image{
+    float:right;
+}
+
+
+
+
